@@ -1,0 +1,23 @@
+#chatbot_div{
+    width: 40vw;
+    height: 50vh;
+    position: absolute;
+    top: 50vh;
+    left: 60vw;
+    background-color: red;
+}
+#choose_div{
+    position: absolute;
+    width: 100%;
+    background-color: yellow;
+    height: 20%;
+    bottom: 0;
+}
+#comment_option{
+    width: 25%;
+    height: 5vh;
+    background-color: red;
+    position: absolute;
+    bottom: 5px;
+    border-radius: 50px;
+}
